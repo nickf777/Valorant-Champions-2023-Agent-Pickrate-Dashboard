@@ -341,7 +341,7 @@ dropdown = dcc.Dropdown(id = 'map-picker', options = map_options, value = 'All M
 
 
 #Image 
-img = 'assets/valorant-logo_resized.png'
+img = '/assets/valorant-logo_resized.png'
 
 
 # In[20]:
