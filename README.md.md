@@ -13,5 +13,4 @@ The technical purpose of this exercise is to acquaint myself with available data
 6. Sketch out a planned format 
 7. Build the dashboard, using all educational resources to help you resolve issues
 
- 
- 
+Dashboard hosted on https://valorant-champions-2023-agent-pickrate.onrender.com
