@@ -368,6 +368,7 @@ sidebar = html.Div([
 
 
 app = dash.Dash()
+server = app.server
 
 
 # In[22]:
