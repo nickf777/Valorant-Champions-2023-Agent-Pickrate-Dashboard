@@ -1,841 +1,841 @@
-,map,agents,match_id,game_id
-0,Fracture,Viper,247100,137395
-1,Fracture,Breach,247100,137395
-2,Fracture,Astra,247100,137395
-3,Fracture,Neon,247100,137395
-4,Fracture,Sova,247100,137395
-5,Fracture,Viper,247100,137395
-6,Fracture,Killjoy,247100,137395
-7,Fracture,Raze,247100,137395
-8,Fracture,Fade,247100,137395
-9,Fracture,Omen,247100,137395
-0,Bind,Viper,247100,137396
-1,Bind,Raze,247100,137396
-2,Bind,Chamber,247100,137396
-3,Bind,Astra,247100,137396
-4,Bind,Skye,247100,137396
-5,Bind,Viper,247100,137396
-6,Bind,Skye,247100,137396
-7,Bind,Brimstone,247100,137396
-8,Bind,Neon,247100,137396
-9,Bind,Raze,247100,137396
-0,Lotus,Viper,247101,137398
-1,Lotus,Fade,247101,137398
-2,Lotus,Killjoy,247101,137398
-3,Lotus,Omen,247101,137398
-4,Lotus,Raze,247101,137398
-5,Lotus,Raze,247101,137398
-6,Lotus,Fade,247101,137398
-7,Lotus,Viper,247101,137398
-8,Lotus,Killjoy,247101,137398
-9,Lotus,Omen,247101,137398
-0,Split,Omen,247101,137399
-1,Split,Raze,247101,137399
-2,Split,Viper,247101,137399
-3,Split,Killjoy,247101,137399
-4,Split,Skye,247101,137399
-5,Split,Raze,247101,137399
-6,Split,Killjoy,247101,137399
-7,Split,Astra,247101,137399
-8,Split,Breach,247101,137399
-9,Split,Skye,247101,137399
-0,Ascent,Killjoy,247101,137400
-1,Ascent,Omen,247101,137400
-2,Ascent,Kayo,247101,137400
-3,Ascent,Sova,247101,137400
-4,Ascent,Jett,247101,137400
-5,Ascent,Fade,247101,137400
-6,Ascent,Jett,247101,137400
-7,Ascent,Viper,247101,137400
-8,Ascent,Omen,247101,137400
-9,Ascent,Breach,247101,137400
-0,Pearl,Viper,247087,137368
-1,Pearl,Killjoy,247087,137368
-2,Pearl,Kayo,247087,137368
-3,Pearl,Brimstone,247087,137368
-4,Pearl,Jett,247087,137368
-5,Pearl,Jett,247087,137368
-6,Pearl,Killjoy,247087,137368
-7,Pearl,Viper,247087,137368
-8,Pearl,Harbor,247087,137368
-9,Pearl,Skye,247087,137368
-0,Haven,Omen,247087,137369
-1,Haven,Jett,247087,137369
-2,Haven,Breach,247087,137369
-3,Haven,Gekko,247087,137369
-4,Haven,Killjoy,247087,137369
-5,Haven,Breach,247087,137369
-6,Haven,Sova,247087,137369
-7,Haven,Omen,247087,137369
-8,Haven,Killjoy,247087,137369
-9,Haven,Jett,247087,137369
-0,Ascent,Omen,247086,137365
-1,Ascent,Kayo,247086,137365
-2,Ascent,Jett,247086,137365
-3,Ascent,Sova,247086,137365
-4,Ascent,Killjoy,247086,137365
-5,Ascent,Skye,247086,137365
-6,Ascent,Killjoy,247086,137365
-7,Ascent,Jett,247086,137365
-8,Ascent,Astra,247086,137365
-9,Ascent,Omen,247086,137365
-0,Pearl,Astra,247086,137366
-1,Pearl,Jett,247086,137366
-2,Pearl,Kayo,247086,137366
-3,Pearl,Sova,247086,137366
-4,Pearl,Killjoy,247086,137366
-5,Pearl,Astra,247086,137366
-6,Pearl,Skye,247086,137366
-7,Pearl,Killjoy,247086,137366
-8,Pearl,Jett,247086,137366
-9,Pearl,Omen,247086,137366
-0,Bind,Skye,247102,137401
-1,Bind,Raze,247102,137401
-2,Bind,Sage,247102,137401
-3,Bind,Viper,247102,137401
-4,Bind,Brimstone,247102,137401
-5,Bind,Skye,247102,137401
-6,Bind,Viper,247102,137401
-7,Bind,Brimstone,247102,137401
-8,Bind,Yoru,247102,137401
-9,Bind,Raze,247102,137401
-0,Split,Jett,247102,137402
-1,Split,Cypher,247102,137402
-2,Split,Raze,247102,137402
-3,Split,Skye,247102,137402
-4,Split,Omen,247102,137402
-5,Split,Raze,247102,137402
-6,Split,Skye,247102,137402
-7,Split,Omen,247102,137402
-8,Split,Viper,247102,137402
-9,Split,Killjoy,247102,137402
-0,Lotus,Killjoy,247102,137403
-1,Lotus,Sova,247102,137403
-2,Lotus,Breach,247102,137403
-3,Lotus,Brimstone,247102,137403
-4,Lotus,Raze,247102,137403
-5,Lotus,Killjoy,247102,137403
-6,Lotus,Raze,247102,137403
-7,Lotus,Omen,247102,137403
-8,Lotus,Fade,247102,137403
-9,Lotus,Viper,247102,137403
-0,Lotus,Raze,247094,137383
-1,Lotus,Omen,247094,137383
-2,Lotus,Killjoy,247094,137383
-3,Lotus,Viper,247094,137383
-4,Lotus,Skye,247094,137383
-5,Lotus,Fade,247094,137383
-6,Lotus,Raze,247094,137383
-7,Lotus,Killjoy,247094,137383
-8,Lotus,Viper,247094,137383
-9,Lotus,Omen,247094,137383
-0,Split,Skye,247094,137384
-1,Split,Astra,247094,137384
-2,Split,Jett,247094,137384
-3,Split,Viper,247094,137384
-4,Split,Raze,247094,137384
-5,Split,Raze,247094,137384
-6,Split,Viper,247094,137384
-7,Split,Cypher,247094,137384
-8,Split,Skye,247094,137384
-9,Split,Omen,247094,137384
-0,Fracture,Killjoy,247093,137380
-1,Fracture,Raze,247093,137380
-2,Fracture,Sova,247093,137380
-3,Fracture,Breach,247093,137380
-4,Fracture,Brimstone,247093,137380
-5,Fracture,Raze,247093,137380
-6,Fracture,Brimstone,247093,137380
-7,Fracture,Chamber,247093,137380
-8,Fracture,Neon,247093,137380
-9,Fracture,Breach,247093,137380
-0,Haven,Killjoy,247093,137381
-1,Haven,Sova,247093,137381
-2,Haven,Breach,247093,137381
-3,Haven,Astra,247093,137381
-4,Haven,Jett,247093,137381
-5,Haven,Killjoy,247093,137381
-6,Haven,Chamber,247093,137381
-7,Haven,Astra,247093,137381
-8,Haven,Skye,247093,137381
-9,Haven,Raze,247093,137381
-0,Pearl,Kayo,247088,137371
-1,Pearl,Killjoy,247088,137371
-2,Pearl,Sova,247088,137371
-3,Pearl,Astra,247088,137371
-4,Pearl,Jett,247088,137371
-5,Pearl,Kayo,247088,137371
-6,Pearl,Viper,247088,137371
-7,Pearl,Brimstone,247088,137371
-8,Pearl,Killjoy,247088,137371
-9,Pearl,Jett,247088,137371
-0,Bind,Raze,247088,137372
-1,Bind,Chamber,247088,137372
-2,Bind,Viper,247088,137372
-3,Bind,Brimstone,247088,137372
-4,Bind,Skye,247088,137372
-5,Bind,Viper,247088,137372
-6,Bind,Raze,247088,137372
-7,Bind,Kayo,247088,137372
-8,Bind,Fade,247088,137372
-9,Bind,Brimstone,247088,137372
-0,Split,Astra,247075,137350
-1,Split,Skye,247075,137350
-2,Split,Jett,247075,137350
-3,Split,Raze,247075,137350
-4,Split,Viper,247075,137350
-5,Split,Raze,247075,137350
-6,Split,Chamber,247075,137350
-7,Split,Astra,247075,137350
-8,Split,Skye,247075,137350
-9,Split,Viper,247075,137350
-0,Pearl,Astra,247075,137351
-1,Pearl,Skye,247075,137351
-2,Pearl,Phoenix,247075,137351
-3,Pearl,Jett,247075,137351
-4,Pearl,Killjoy,247075,137351
-5,Pearl,Jett,247075,137351
-6,Pearl,Viper,247075,137351
-7,Pearl,Killjoy,247075,137351
-8,Pearl,Harbor,247075,137351
-9,Pearl,Skye,247075,137351
-0,Split,Skye,247076,137353
-1,Split,Raze,247076,137353
-2,Split,Viper,247076,137353
-3,Split,Astra,247076,137353
-4,Split,Jett,247076,137353
-5,Split,Raze,247076,137353
-6,Split,Breach,247076,137353
-7,Split,Omen,247076,137353
-8,Split,Cypher,247076,137353
-9,Split,Skye,247076,137353
-0,Bind,Skye,247076,137354
-1,Bind,Chamber,247076,137354
-2,Bind,Brimstone,247076,137354
-3,Bind,Viper,247076,137354
-4,Bind,Raze,247076,137354
-5,Bind,Raze,247076,137354
-6,Bind,Skye,247076,137354
-7,Bind,Cypher,247076,137354
-8,Bind,Viper,247076,137354
-9,Bind,Brimstone,247076,137354
-0,Ascent,Sova,247076,137355
-1,Ascent,Killjoy,247076,137355
-2,Ascent,Jett,247076,137355
-3,Ascent,Omen,247076,137355
-4,Ascent,Kayo,247076,137355
-5,Ascent,Kayo,247076,137355
-6,Ascent,Sova,247076,137355
-7,Ascent,Jett,247076,137355
-8,Ascent,Killjoy,247076,137355
-9,Ascent,Omen,247076,137355
-0,Haven,Astra,247095,137386
-1,Haven,Breach,247095,137386
-2,Haven,Jett,247095,137386
-3,Haven,Killjoy,247095,137386
-4,Haven,Sova,247095,137386
-5,Haven,Killjoy,247095,137386
-6,Haven,Jett,247095,137386
-7,Haven,Sova,247095,137386
-8,Haven,Breach,247095,137386
-9,Haven,Omen,247095,137386
-0,Lotus,Viper,247095,137387
-1,Lotus,Raze,247095,137387
-2,Lotus,Fade,247095,137387
-3,Lotus,Killjoy,247095,137387
-4,Lotus,Astra,247095,137387
-5,Lotus,Viper,247095,137387
-6,Lotus,Killjoy,247095,137387
-7,Lotus,Raze,247095,137387
-8,Lotus,Fade,247095,137387
-9,Lotus,Omen,247095,137387
-0,Haven,Jett,247103,137404
-1,Haven,Killjoy,247103,137404
-2,Haven,Skye,247103,137404
-3,Haven,Omen,247103,137404
-4,Haven,Breach,247103,137404
-5,Haven,Killjoy,247103,137404
-6,Haven,Harbor,247103,137404
-7,Haven,Skye,247103,137404
-8,Haven,Jett,247103,137404
-9,Haven,Viper,247103,137404
-0,Split,Raze,247103,137405
-1,Split,Astra,247103,137405
-2,Split,Skye,247103,137405
-3,Split,Jett,247103,137405
-4,Split,Viper,247103,137405
-5,Split,Astra,247103,137405
-6,Split,Skye,247103,137405
-7,Split,Breach,247103,137405
-8,Split,Killjoy,247103,137405
-9,Split,Raze,247103,137405
-0,Lotus,Raze,247089,137374
-1,Lotus,Gekko,247089,137374
-2,Lotus,Harbor,247089,137374
-3,Lotus,Killjoy,247089,137374
-4,Lotus,Viper,247089,137374
-5,Lotus,Viper,247089,137374
-6,Lotus,Raze,247089,137374
-7,Lotus,Killjoy,247089,137374
-8,Lotus,Omen,247089,137374
-9,Lotus,Fade,247089,137374
-0,Bind,Skye,247089,137375
-1,Bind,Viper,247089,137375
-2,Bind,Raze,247089,137375
-3,Bind,Jett,247089,137375
-4,Bind,Harbor,247089,137375
-5,Bind,Jett,247089,137375
-6,Bind,Viper,247089,137375
-7,Bind,Harbor,247089,137375
-8,Bind,Skye,247089,137375
-9,Bind,Gekko,247089,137375
-0,Fracture,Brimstone,247077,137356
-1,Fracture,Skye,247077,137356
-2,Fracture,Breach,247077,137356
-3,Fracture,Raze,247077,137356
-4,Fracture,Killjoy,247077,137356
-5,Fracture,Jett,247077,137356
-6,Fracture,Killjoy,247077,137356
-7,Fracture,Brimstone,247077,137356
-8,Fracture,Breach,247077,137356
-9,Fracture,Skye,247077,137356
-0,Pearl,Skye,247077,137357
-1,Pearl,Killjoy,247077,137357
-2,Pearl,Phoenix,247077,137357
-3,Pearl,Astra,247077,137357
-4,Pearl,Jett,247077,137357
-5,Pearl,Killjoy,247077,137357
-6,Pearl,Jett,247077,137357
-7,Pearl,Viper,247077,137357
-8,Pearl,Omen,247077,137357
-9,Pearl,Fade,247077,137357
-0,Lotus,Killjoy,247078,137359
-1,Lotus,Raze,247078,137359
-2,Lotus,Viper,247078,137359
-3,Lotus,Omen,247078,137359
-4,Lotus,Skye,247078,137359
-5,Lotus,Killjoy,247078,137359
-6,Lotus,Omen,247078,137359
-7,Lotus,Viper,247078,137359
-8,Lotus,Raze,247078,137359
-9,Lotus,Skye,247078,137359
-0,Pearl,Jett,247078,137360
-1,Pearl,Killjoy,247078,137360
-2,Pearl,Viper,247078,137360
-3,Pearl,Skye,247078,137360
-4,Pearl,Harbor,247078,137360
-5,Pearl,Skye,247078,137360
-6,Pearl,Jett,247078,137360
-7,Pearl,Sova,247078,137360
-8,Pearl,Astra,247078,137360
-9,Pearl,Cypher,247078,137360
-0,Bind,Neon,247096,137389
-1,Bind,Viper,247096,137389
-2,Bind,Skye,247096,137389
-3,Bind,Raze,247096,137389
-4,Bind,Brimstone,247096,137389
-5,Bind,Skye,247096,137389
-6,Bind,Chamber,247096,137389
-7,Bind,Raze,247096,137389
-8,Bind,Viper,247096,137389
-9,Bind,Brimstone,247096,137389
-0,Haven,Killjoy,247096,137390
-1,Haven,Chamber,247096,137390
-2,Haven,Skye,247096,137390
-3,Haven,Raze,247096,137390
-4,Haven,Astra,247096,137390
-5,Haven,Jett,247096,137390
-6,Haven,Harbor,247096,137390
-7,Haven,Viper,247096,137390
-8,Haven,Killjoy,247096,137390
-9,Haven,Skye,247096,137390
-0,Pearl,Jett,247104,137407
-1,Pearl,Sova,247104,137407
-2,Pearl,Killjoy,247104,137407
-3,Pearl,Kayo,247104,137407
-4,Pearl,Astra,247104,137407
-5,Pearl,Fade,247104,137407
-6,Pearl,Killjoy,247104,137407
-7,Pearl,Breach,247104,137407
-8,Pearl,Astra,247104,137407
-9,Pearl,Jett,247104,137407
-0,Ascent,Fade,247104,137408
-1,Ascent,Jett,247104,137408
-2,Ascent,Killjoy,247104,137408
-3,Ascent,Kayo,247104,137408
-4,Ascent,Omen,247104,137408
-5,Ascent,Sova,247104,137408
-6,Ascent,Kayo,247104,137408
-7,Ascent,Omen,247104,137408
-8,Ascent,Jett,247104,137408
-9,Ascent,Killjoy,247104,137408
-0,Bind,Neon,247104,137409
-1,Bind,Viper,247104,137409
-2,Bind,Brimstone,247104,137409
-3,Bind,Raze,247104,137409
-4,Bind,Skye,247104,137409
-5,Bind,Viper,247104,137409
-6,Bind,Raze,247104,137409
-7,Bind,Brimstone,247104,137409
-8,Bind,Omen,247104,137409
-9,Bind,Skye,247104,137409
-0,Bind,Fade,247090,137377
-1,Bind,Kayo,247090,137377
-2,Bind,Brimstone,247090,137377
-3,Bind,Viper,247090,137377
-4,Bind,Raze,247090,137377
-5,Bind,Skye,247090,137377
-6,Bind,Jett,247090,137377
-7,Bind,Harbor,247090,137377
-8,Bind,Gekko,247090,137377
-9,Bind,Viper,247090,137377
-0,Pearl,Killjoy,247090,137378
-1,Pearl,Kayo,247090,137378
-2,Pearl,Viper,247090,137378
-3,Pearl,Jett,247090,137378
-4,Pearl,Brimstone,247090,137378
-5,Pearl,Jett,247090,137378
-6,Pearl,Skye,247090,137378
-7,Pearl,Viper,247090,137378
-8,Pearl,Killjoy,247090,137378
-9,Pearl,Harbor,247090,137378
-0,Split,Raze,247079,137362
-1,Split,Viper,247079,137362
-2,Split,Skye,247079,137362
-3,Split,Jett,247079,137362
-4,Split,Astra,247079,137362
-5,Split,Skye,247079,137362
-6,Split,Breach,247079,137362
-7,Split,Raze,247079,137362
-8,Split,Omen,247079,137362
-9,Split,Cypher,247079,137362
-0,Fracture,Killjoy,247079,137363
-1,Fracture,Brimstone,247079,137363
-2,Fracture,Breach,247079,137363
-3,Fracture,Skye,247079,137363
-4,Fracture,Jett,247079,137363
-5,Fracture,Sova,247079,137363
-6,Fracture,Brimstone,247079,137363
-7,Fracture,Breach,247079,137363
-8,Fracture,Killjoy,247079,137363
-9,Fracture,Raze,247079,137363
-0,Bind,Viper,247098,137392
-1,Bind,Raze,247098,137392
-2,Bind,Cypher,247098,137392
-3,Bind,Skye,247098,137392
-4,Bind,Brimstone,247098,137392
-5,Bind,Raze,247098,137392
-6,Bind,Viper,247098,137392
-7,Bind,Brimstone,247098,137392
-8,Bind,Skye,247098,137392
-9,Bind,Chamber,247098,137392
-0,Ascent,Omen,247098,137393
-1,Ascent,Jett,247098,137393
-2,Ascent,Kayo,247098,137393
-3,Ascent,Killjoy,247098,137393
-4,Ascent,Sova,247098,137393
-5,Ascent,Kayo,247098,137393
-6,Ascent,Jett,247098,137393
-7,Ascent,Sova,247098,137393
-8,Ascent,Killjoy,247098,137393
-9,Ascent,Omen,247098,137393
-0,Ascent,Killjoy,248270,137618
-1,Ascent,Sova,248270,137618
-2,Ascent,Jett,248270,137618
-3,Ascent,Kayo,248270,137618
-4,Ascent,Omen,248270,137618
-5,Ascent,Sova,248270,137618
-6,Ascent,Jett,248270,137618
-7,Ascent,Killjoy,248270,137618
-8,Ascent,Omen,248270,137618
-9,Ascent,Kayo,248270,137618
-0,Lotus,Raze,248270,137619
-1,Lotus,Astra,248270,137619
-2,Lotus,Fade,248270,137619
-3,Lotus,Killjoy,248270,137619
-4,Lotus,Viper,248270,137619
-5,Lotus,Raze,248270,137619
-6,Lotus,Killjoy,248270,137619
-7,Lotus,Omen,248270,137619
-8,Lotus,Fade,248270,137619
-9,Lotus,Viper,248270,137619
-0,Ascent,Reyna,248271,137621
-1,Ascent,Skye,248271,137621
-2,Ascent,Harbor,248271,137621
-3,Ascent,Raze,248271,137621
-4,Ascent,Viper,248271,137621
-5,Ascent,Sova,248271,137621
-6,Ascent,Kayo,248271,137621
-7,Ascent,Jett,248271,137621
-8,Ascent,Killjoy,248271,137621
-9,Ascent,Omen,248271,137621
-0,Pearl,Skye,248271,137622
-1,Pearl,Killjoy,248271,137622
-2,Pearl,Jett,248271,137622
-3,Pearl,Phoenix,248271,137622
-4,Pearl,Astra,248271,137622
-5,Pearl,Brimstone,248271,137622
-6,Pearl,Jett,248271,137622
-7,Pearl,Killjoy,248271,137622
-8,Pearl,Viper,248271,137622
-9,Pearl,Kayo,248271,137622
-0,Lotus,Raze,248272,137624
-1,Lotus,Omen,248272,137624
-2,Lotus,Killjoy,248272,137624
-3,Lotus,Viper,248272,137624
-4,Lotus,Fade,248272,137624
-5,Lotus,Raze,248272,137624
-6,Lotus,Viper,248272,137624
-7,Lotus,Omen,248272,137624
-8,Lotus,Fade,248272,137624
-9,Lotus,Killjoy,248272,137624
-0,Haven,Viper,248272,137625
-1,Haven,Jett,248272,137625
-2,Haven,Omen,248272,137625
-3,Haven,Skye,248272,137625
-4,Haven,Killjoy,248272,137625
-5,Haven,Sova,248272,137625
-6,Haven,Omen,248272,137625
-7,Haven,Breach,248272,137625
-8,Haven,Jett,248272,137625
-9,Haven,Killjoy,248272,137625
-0,Split,Skye,248273,137627
-1,Split,Astra,248273,137627
-2,Split,Viper,248273,137627
-3,Split,Raze,248273,137627
-4,Split,Chamber,248273,137627
-5,Split,Viper,248273,137627
-6,Split,Astra,248273,137627
-7,Split,Jett,248273,137627
-8,Split,Skye,248273,137627
-9,Split,Raze,248273,137627
-0,Ascent,Jett,248273,137628
-1,Ascent,Kayo,248273,137628
-2,Ascent,Omen,248273,137628
-3,Ascent,Killjoy,248273,137628
-4,Ascent,Sova,248273,137628
-5,Ascent,Sova,248273,137628
-6,Ascent,Killjoy,248273,137628
-7,Ascent,Jett,248273,137628
-8,Ascent,Kayo,248273,137628
-9,Ascent,Omen,248273,137628
-0,Pearl,Jett,248273,137629
-1,Pearl,Yoru,248273,137629
-2,Pearl,Sova,248273,137629
-3,Pearl,Killjoy,248273,137629
-4,Pearl,Astra,248273,137629
-5,Pearl,Killjoy,248273,137629
-6,Pearl,Viper,248273,137629
-7,Pearl,Skye,248273,137629
-8,Pearl,Omen,248273,137629
-9,Pearl,Jett,248273,137629
-0,Split,Cypher,248278,137644
-1,Split,Raze,248278,137644
-2,Split,Breach,248278,137644
-3,Split,Skye,248278,137644
-4,Split,Omen,248278,137644
-5,Split,Omen,248278,137644
-6,Split,Skye,248278,137644
-7,Split,Kayo,248278,137644
-8,Split,Viper,248278,137644
-9,Split,Jett,248278,137644
-0,Haven,Killjoy,248278,137645
-1,Haven,Breach,248278,137645
-2,Haven,Sova,248278,137645
-3,Haven,Jett,248278,137645
-4,Haven,Astra,248278,137645
-5,Haven,Omen,248278,137645
-6,Haven,Gekko,248278,137645
-7,Haven,Breach,248278,137645
-8,Haven,Killjoy,248278,137645
-9,Haven,Jett,248278,137645
-0,Bind,Cypher,248279,137647
-1,Bind,Raze,248279,137647
-2,Bind,Viper,248279,137647
-3,Bind,Brimstone,248279,137647
-4,Bind,Skye,248279,137647
-5,Bind,Viper,248279,137647
-6,Bind,Chamber,248279,137647
-7,Bind,Raze,248279,137647
-8,Bind,Brimstone,248279,137647
-9,Bind,Skye,248279,137647
-0,Split,Raze,248279,137648
-1,Split,Skye,248279,137648
-2,Split,Cypher,248279,137648
-3,Split,Viper,248279,137648
-4,Split,Omen,248279,137648
-5,Split,Jett,248279,137648
-6,Split,Skye,248279,137648
-7,Split,Astra,248279,137648
-8,Split,Viper,248279,137648
-9,Split,Raze,248279,137648
-0,Haven,Killjoy,248279,137649
-1,Haven,Breach,248279,137649
-2,Haven,Sova,248279,137649
-3,Haven,Jett,248279,137649
-4,Haven,Omen,248279,137649
-5,Haven,Sova,248279,137649
-6,Haven,Omen,248279,137649
-7,Haven,Jett,248279,137649
-8,Haven,Cypher,248279,137649
-9,Haven,Breach,248279,137649
-0,Lotus,Omen,248274,137630
-1,Lotus,Fade,248274,137630
-2,Lotus,Raze,248274,137630
-3,Lotus,Killjoy,248274,137630
-4,Lotus,Viper,248274,137630
-5,Lotus,Jett,248274,137630
-6,Lotus,Skye,248274,137630
-7,Lotus,Raze,248274,137630
-8,Lotus,Astra,248274,137630
-9,Lotus,Omen,248274,137630
-0,Split,Killjoy,248274,137631
-1,Split,Breach,248274,137631
-2,Split,Skye,248274,137631
-3,Split,Astra,248274,137631
-4,Split,Raze,248274,137631
-5,Split,Viper,248274,137631
-6,Split,Jett,248274,137631
-7,Split,Astra,248274,137631
-8,Split,Skye,248274,137631
-9,Split,Raze,248274,137631
-0,Pearl,Jett,248274,137632
-1,Pearl,Fade,248274,137632
-2,Pearl,Astra,248274,137632
-3,Pearl,Breach,248274,137632
-4,Pearl,Killjoy,248274,137632
-5,Pearl,Jett,248274,137632
-6,Pearl,Phoenix,248274,137632
-7,Pearl,Killjoy,248274,137632
-8,Pearl,Skye,248274,137632
-9,Pearl,Astra,248274,137632
-0,Fracture,Raze,248275,137633
-1,Fracture,Viper,248275,137633
-2,Fracture,Brimstone,248275,137633
-3,Fracture,Breach,248275,137633
-4,Fracture,Killjoy,248275,137633
-5,Fracture,Brimstone,248275,137633
-6,Fracture,Sova,248275,137633
-7,Fracture,Breach,248275,137633
-8,Fracture,Killjoy,248275,137633
-9,Fracture,Raze,248275,137633
-0,Lotus,Viper,248275,137634
-1,Lotus,Fade,248275,137634
-2,Lotus,Killjoy,248275,137634
-3,Lotus,Raze,248275,137634
-4,Lotus,Omen,248275,137634
-5,Lotus,Astra,248275,137634
-6,Lotus,Viper,248275,137634
-7,Lotus,Killjoy,248275,137634
-8,Lotus,Raze,248275,137634
-9,Lotus,Skye,248275,137634
-0,Bind,Brimstone,248281,137653
-1,Bind,Raze,248281,137653
-2,Bind,Skye,248281,137653
-3,Bind,Viper,248281,137653
-4,Bind,Omen,248281,137653
-5,Bind,Reyna,248281,137653
-6,Bind,Skye,248281,137653
-7,Bind,Viper,248281,137653
-8,Bind,Raze,248281,137653
-9,Bind,Brimstone,248281,137653
-0,Ascent,Omen,248281,137654
-1,Ascent,Sova,248281,137654
-2,Ascent,Kayo,248281,137654
-3,Ascent,Killjoy,248281,137654
-4,Ascent,Jett,248281,137654
-5,Ascent,Kayo,248281,137654
-6,Ascent,Killjoy,248281,137654
-7,Ascent,Sova,248281,137654
-8,Ascent,Jett,248281,137654
-9,Ascent,Omen,248281,137654
-0,Haven,Skye,248281,137655
-1,Haven,Killjoy,248281,137655
-2,Haven,Jett,248281,137655
-3,Haven,Viper,248281,137655
-4,Haven,Harbor,248281,137655
-5,Haven,Breach,248281,137655
-6,Haven,Cypher,248281,137655
-7,Haven,Omen,248281,137655
-8,Haven,Jett,248281,137655
-9,Haven,Sova,248281,137655
-0,Bind,Skye,248280,137650
-1,Bind,Brimstone,248280,137650
-2,Bind,Viper,248280,137650
-3,Bind,Yoru,248280,137650
-4,Bind,Raze,248280,137650
-5,Bind,Viper,248280,137650
-6,Bind,Raze,248280,137650
-7,Bind,Chamber,248280,137650
-8,Bind,Brimstone,248280,137650
-9,Bind,Skye,248280,137650
-0,Haven,Jett,248280,137651
-1,Haven,Omen,248280,137651
-2,Haven,Killjoy,248280,137651
-3,Haven,Viper,248280,137651
-4,Haven,Skye,248280,137651
-5,Haven,Killjoy,248280,137651
-6,Haven,Sova,248280,137651
-7,Haven,Jett,248280,137651
-8,Haven,Astra,248280,137651
-9,Haven,Breach,248280,137651
-0,Split,Omen,248280,137652
-1,Split,Skye,248280,137652
-2,Split,Raze,248280,137652
-3,Split,Killjoy,248280,137652
-4,Split,Viper,248280,137652
-5,Split,Skye,248280,137652
-6,Split,Breach,248280,137652
-7,Split,Omen,248280,137652
-8,Split,Raze,248280,137652
-9,Split,Cypher,248280,137652
-0,Ascent,Viper,248276,137636
-1,Ascent,Reyna,248276,137636
-2,Ascent,Raze,248276,137636
-3,Ascent,Harbor,248276,137636
-4,Ascent,Skye,248276,137636
-5,Ascent,Sova,248276,137636
-6,Ascent,Omen,248276,137636
-7,Ascent,Kayo,248276,137636
-8,Ascent,Killjoy,248276,137636
-9,Ascent,Jett,248276,137636
-0,Bind,Raze,248276,137637
-1,Bind,Brimstone,248276,137637
-2,Bind,Skye,248276,137637
-3,Bind,Harbor,248276,137637
-4,Bind,Reyna,248276,137637
-5,Bind,Viper,248276,137637
-6,Bind,Chamber,248276,137637
-7,Bind,Skye,248276,137637
-8,Bind,Raze,248276,137637
-9,Bind,Brimstone,248276,137637
-0,Pearl,Astra,248276,137638
-1,Pearl,Killjoy,248276,137638
-2,Pearl,Skye,248276,137638
-3,Pearl,Phoenix,248276,137638
-4,Pearl,Jett,248276,137638
-5,Pearl,Jett,248276,137638
-6,Pearl,Astra,248276,137638
-7,Pearl,Yoru,248276,137638
-8,Pearl,Sova,248276,137638
-9,Pearl,Killjoy,248276,137638
-0,Split,Omen,248282,137656
-1,Split,Cypher,248282,137656
-2,Split,Raze,248282,137656
-3,Split,Skye,248282,137656
-4,Split,Breach,248282,137656
-5,Split,Killjoy,248282,137656
-6,Split,Breach,248282,137656
-7,Split,Skye,248282,137656
-8,Split,Astra,248282,137656
-9,Split,Raze,248282,137656
-0,Ascent,Sova,248282,137657
-1,Ascent,Jett,248282,137657
-2,Ascent,Omen,248282,137657
-3,Ascent,Killjoy,248282,137657
-4,Ascent,Kayo,248282,137657
-5,Ascent,Sova,248282,137657
-6,Ascent,Jett,248282,137657
-7,Ascent,Kayo,248282,137657
-8,Ascent,Omen,248282,137657
-9,Ascent,Killjoy,248282,137657
-0,Haven,Sova,248282,137658
-1,Haven,Jett,248282,137658
-2,Haven,Astra,248282,137658
-3,Haven,Killjoy,248282,137658
-4,Haven,Breach,248282,137658
-5,Haven,Jett,248282,137658
-6,Haven,Skye,248282,137658
-7,Haven,Killjoy,248282,137658
-8,Haven,Viper,248282,137658
-9,Haven,Harbor,248282,137658
-0,Ascent,Jett,248283,137659
-1,Ascent,Kayo,248283,137659
-2,Ascent,Sova,248283,137659
-3,Ascent,Omen,248283,137659
-4,Ascent,Killjoy,248283,137659
-5,Ascent,Killjoy,248283,137659
-6,Ascent,Jett,248283,137659
-7,Ascent,Kayo,248283,137659
-8,Ascent,Sova,248283,137659
-9,Ascent,Omen,248283,137659
-0,Lotus,Raze,248283,137660
-1,Lotus,Astra,248283,137660
-2,Lotus,Skye,248283,137660
-3,Lotus,Killjoy,248283,137660
-4,Lotus,Viper,248283,137660
-5,Lotus,Killjoy,248283,137660
-6,Lotus,Viper,248283,137660
-7,Lotus,Raze,248283,137660
-8,Lotus,Omen,248283,137660
-9,Lotus,Fade,248283,137660
-0,Pearl,Jett,248283,137661
-1,Pearl,Sova,248283,137661
-2,Pearl,Astra,248283,137661
-3,Pearl,Killjoy,248283,137661
-4,Pearl,Yoru,248283,137661
-5,Pearl,Viper,248283,137661
-6,Pearl,Jett,248283,137661
-7,Pearl,Killjoy,248283,137661
-8,Pearl,Skye,248283,137661
-9,Pearl,Harbor,248283,137661
-0,Split,Chamber,248283,137662
-1,Split,Skye,248283,137662
-2,Split,Viper,248283,137662
-3,Split,Astra,248283,137662
-4,Split,Raze,248283,137662
-5,Split,Raze,248283,137662
-6,Split,Skye,248283,137662
-7,Split,Astra,248283,137662
-8,Split,Breach,248283,137662
-9,Split,Killjoy,248283,137662
-0,Bind,Skye,248283,137663
-1,Bind,Chamber,248283,137663
-2,Bind,Brimstone,248283,137663
-3,Bind,Raze,248283,137663
-4,Bind,Viper,248283,137663
-5,Bind,Omen,248283,137663
-6,Bind,Viper,248283,137663
-7,Bind,Raze,248283,137663
-8,Bind,Skye,248283,137663
-9,Bind,Brimstone,248283,137663
-0,Split,Viper,248277,137639
-1,Split,Jett,248277,137639
-2,Split,Skye,248277,137639
-3,Split,Astra,248277,137639
-4,Split,Raze,248277,137639
-5,Split,Jett,248277,137639
-6,Split,Raze,248277,137639
-7,Split,Astra,248277,137639
-8,Split,Skye,248277,137639
-9,Split,Viper,248277,137639
-0,Ascent,Reyna,248277,137640
-1,Ascent,Kayo,248277,137640
-2,Ascent,Raze,248277,137640
-3,Ascent,Harbor,248277,137640
-4,Ascent,Viper,248277,137640
-5,Ascent,Kayo,248277,137640
-6,Ascent,Killjoy,248277,137640
-7,Ascent,Sova,248277,137640
-8,Ascent,Jett,248277,137640
-9,Ascent,Omen,248277,137640
-0,Bind,Breach,248277,137641
-1,Bind,Brimstone,248277,137641
-2,Bind,Yoru,248277,137641
-3,Bind,Skye,248277,137641
-4,Bind,Raze,248277,137641
-5,Bind,Raze,248277,137641
-6,Bind,Viper,248277,137641
-7,Bind,Chamber,248277,137641
-8,Bind,Skye,248277,137641
-9,Bind,Brimstone,248277,137641
-0,Lotus,Raze,248277,137642
-1,Lotus,Astra,248277,137642
-2,Lotus,Skye,248277,137642
-3,Lotus,Jett,248277,137642
-4,Lotus,Omen,248277,137642
-5,Lotus,Astra,248277,137642
-6,Lotus,Raze,248277,137642
-7,Lotus,Killjoy,248277,137642
-8,Lotus,Skye,248277,137642
-9,Lotus,Viper,248277,137642
+,map,agents,team,match_id,game_id
+0,Fracture,Viper,Team Liquid,247100,137395
+1,Fracture,Breach,Team Liquid,247100,137395
+2,Fracture,Astra,Team Liquid,247100,137395
+3,Fracture,Neon,Team Liquid,247100,137395
+4,Fracture,Sova,Team Liquid,247100,137395
+5,Fracture,Viper,Natus Vincere,247100,137395
+6,Fracture,Killjoy,Natus Vincere,247100,137395
+7,Fracture,Raze,Natus Vincere,247100,137395
+8,Fracture,Fade,Natus Vincere,247100,137395
+9,Fracture,Omen,Natus Vincere,247100,137395
+0,Bind,Viper,Team Liquid,247100,137396
+1,Bind,Raze,Team Liquid,247100,137396
+2,Bind,Chamber,Team Liquid,247100,137396
+3,Bind,Astra,Team Liquid,247100,137396
+4,Bind,Skye,Team Liquid,247100,137396
+5,Bind,Viper,Natus Vincere,247100,137396
+6,Bind,Skye,Natus Vincere,247100,137396
+7,Bind,Brimstone,Natus Vincere,247100,137396
+8,Bind,Neon,Natus Vincere,247100,137396
+9,Bind,Raze,Natus Vincere,247100,137396
+0,Lotus,Viper,DRX,247101,137398
+1,Lotus,Fade,DRX,247101,137398
+2,Lotus,Killjoy,DRX,247101,137398
+3,Lotus,Omen,DRX,247101,137398
+4,Lotus,Raze,DRX,247101,137398
+5,Lotus,Raze,LOUD,247101,137398
+6,Lotus,Fade,LOUD,247101,137398
+7,Lotus,Viper,LOUD,247101,137398
+8,Lotus,Killjoy,LOUD,247101,137398
+9,Lotus,Omen,LOUD,247101,137398
+0,Split,Omen,DRX,247101,137399
+1,Split,Raze,DRX,247101,137399
+2,Split,Viper,DRX,247101,137399
+3,Split,Killjoy,DRX,247101,137399
+4,Split,Skye,DRX,247101,137399
+5,Split,Raze,LOUD,247101,137399
+6,Split,Killjoy,LOUD,247101,137399
+7,Split,Astra,LOUD,247101,137399
+8,Split,Breach,LOUD,247101,137399
+9,Split,Skye,LOUD,247101,137399
+0,Ascent,Killjoy,DRX,247101,137400
+1,Ascent,Omen,DRX,247101,137400
+2,Ascent,Kayo,DRX,247101,137400
+3,Ascent,Sova,DRX,247101,137400
+4,Ascent,Jett,DRX,247101,137400
+5,Ascent,Fade,LOUD,247101,137400
+6,Ascent,Jett,LOUD,247101,137400
+7,Ascent,Viper,LOUD,247101,137400
+8,Ascent,Omen,LOUD,247101,137400
+9,Ascent,Breach,LOUD,247101,137400
+0,Pearl,Viper,FUT Esports,247087,137368
+1,Pearl,Killjoy,FUT Esports,247087,137368
+2,Pearl,Kayo,FUT Esports,247087,137368
+3,Pearl,Brimstone,FUT Esports,247087,137368
+4,Pearl,Jett,FUT Esports,247087,137368
+5,Pearl,Jett,T1,247087,137368
+6,Pearl,Killjoy,T1,247087,137368
+7,Pearl,Viper,T1,247087,137368
+8,Pearl,Harbor,T1,247087,137368
+9,Pearl,Skye,T1,247087,137368
+0,Haven,Omen,FUT Esports,247087,137369
+1,Haven,Jett,FUT Esports,247087,137369
+2,Haven,Breach,FUT Esports,247087,137369
+3,Haven,Gekko,FUT Esports,247087,137369
+4,Haven,Killjoy,FUT Esports,247087,137369
+5,Haven,Breach,T1,247087,137369
+6,Haven,Sova,T1,247087,137369
+7,Haven,Omen,T1,247087,137369
+8,Haven,Killjoy,T1,247087,137369
+9,Haven,Jett,T1,247087,137369
+0,Ascent,Omen,Evil Geniuses,247086,137365
+1,Ascent,Kayo,Evil Geniuses,247086,137365
+2,Ascent,Jett,Evil Geniuses,247086,137365
+3,Ascent,Sova,Evil Geniuses,247086,137365
+4,Ascent,Killjoy,Evil Geniuses,247086,137365
+5,Ascent,Skye,FunPlus Phoenix,247086,137365
+6,Ascent,Killjoy,FunPlus Phoenix,247086,137365
+7,Ascent,Jett,FunPlus Phoenix,247086,137365
+8,Ascent,Astra,FunPlus Phoenix,247086,137365
+9,Ascent,Omen,FunPlus Phoenix,247086,137365
+0,Pearl,Astra,Evil Geniuses,247086,137366
+1,Pearl,Jett,Evil Geniuses,247086,137366
+2,Pearl,Kayo,Evil Geniuses,247086,137366
+3,Pearl,Sova,Evil Geniuses,247086,137366
+4,Pearl,Killjoy,Evil Geniuses,247086,137366
+5,Pearl,Astra,FunPlus Phoenix,247086,137366
+6,Pearl,Skye,FunPlus Phoenix,247086,137366
+7,Pearl,Killjoy,FunPlus Phoenix,247086,137366
+8,Pearl,Jett,FunPlus Phoenix,247086,137366
+9,Pearl,Omen,FunPlus Phoenix,247086,137366
+0,Bind,Skye,Natus Vincere,247102,137401
+1,Bind,Raze,Natus Vincere,247102,137401
+2,Bind,Sage,Natus Vincere,247102,137401
+3,Bind,Viper,Natus Vincere,247102,137401
+4,Bind,Brimstone,Natus Vincere,247102,137401
+5,Bind,Skye,DRX,247102,137401
+6,Bind,Viper,DRX,247102,137401
+7,Bind,Brimstone,DRX,247102,137401
+8,Bind,Yoru,DRX,247102,137401
+9,Bind,Raze,DRX,247102,137401
+0,Split,Jett,Natus Vincere,247102,137402
+1,Split,Cypher,Natus Vincere,247102,137402
+2,Split,Raze,Natus Vincere,247102,137402
+3,Split,Skye,Natus Vincere,247102,137402
+4,Split,Omen,Natus Vincere,247102,137402
+5,Split,Raze,DRX,247102,137402
+6,Split,Skye,DRX,247102,137402
+7,Split,Omen,DRX,247102,137402
+8,Split,Viper,DRX,247102,137402
+9,Split,Killjoy,DRX,247102,137402
+0,Lotus,Killjoy,Natus Vincere,247102,137403
+1,Lotus,Sova,Natus Vincere,247102,137403
+2,Lotus,Breach,Natus Vincere,247102,137403
+3,Lotus,Brimstone,Natus Vincere,247102,137403
+4,Lotus,Raze,Natus Vincere,247102,137403
+5,Lotus,Killjoy,DRX,247102,137403
+6,Lotus,Raze,DRX,247102,137403
+7,Lotus,Omen,DRX,247102,137403
+8,Lotus,Fade,DRX,247102,137403
+9,Lotus,Viper,DRX,247102,137403
+0,Lotus,Raze,NRG Esports,247094,137383
+1,Lotus,Omen,NRG Esports,247094,137383
+2,Lotus,Killjoy,NRG Esports,247094,137383
+3,Lotus,Viper,NRG Esports,247094,137383
+4,Lotus,Skye,NRG Esports,247094,137383
+5,Lotus,Fade,Bilibili Gaming,247094,137383
+6,Lotus,Raze,Bilibili Gaming,247094,137383
+7,Lotus,Killjoy,Bilibili Gaming,247094,137383
+8,Lotus,Viper,Bilibili Gaming,247094,137383
+9,Lotus,Omen,Bilibili Gaming,247094,137383
+0,Split,Skye,NRG Esports,247094,137384
+1,Split,Astra,NRG Esports,247094,137384
+2,Split,Jett,NRG Esports,247094,137384
+3,Split,Viper,NRG Esports,247094,137384
+4,Split,Raze,NRG Esports,247094,137384
+5,Split,Raze,Bilibili Gaming,247094,137384
+6,Split,Viper,Bilibili Gaming,247094,137384
+7,Split,Cypher,Bilibili Gaming,247094,137384
+8,Split,Skye,Bilibili Gaming,247094,137384
+9,Split,Omen,Bilibili Gaming,247094,137384
+0,Fracture,Killjoy,FNATIC,247093,137380
+1,Fracture,Raze,FNATIC,247093,137380
+2,Fracture,Sova,FNATIC,247093,137380
+3,Fracture,Breach,FNATIC,247093,137380
+4,Fracture,Brimstone,FNATIC,247093,137380
+5,Fracture,Raze,ZETA DIVISION,247093,137380
+6,Fracture,Brimstone,ZETA DIVISION,247093,137380
+7,Fracture,Chamber,ZETA DIVISION,247093,137380
+8,Fracture,Neon,ZETA DIVISION,247093,137380
+9,Fracture,Breach,ZETA DIVISION,247093,137380
+0,Haven,Killjoy,FNATIC,247093,137381
+1,Haven,Sova,FNATIC,247093,137381
+2,Haven,Breach,FNATIC,247093,137381
+3,Haven,Astra,FNATIC,247093,137381
+4,Haven,Jett,FNATIC,247093,137381
+5,Haven,Killjoy,ZETA DIVISION,247093,137381
+6,Haven,Chamber,ZETA DIVISION,247093,137381
+7,Haven,Astra,ZETA DIVISION,247093,137381
+8,Haven,Skye,ZETA DIVISION,247093,137381
+9,Haven,Raze,ZETA DIVISION,247093,137381
+0,Pearl,Kayo,Evil Geniuses,247088,137371
+1,Pearl,Killjoy,Evil Geniuses,247088,137371
+2,Pearl,Sova,Evil Geniuses,247088,137371
+3,Pearl,Astra,Evil Geniuses,247088,137371
+4,Pearl,Jett,Evil Geniuses,247088,137371
+5,Pearl,Kayo,FUT Esports,247088,137371
+6,Pearl,Viper,FUT Esports,247088,137371
+7,Pearl,Brimstone,FUT Esports,247088,137371
+8,Pearl,Killjoy,FUT Esports,247088,137371
+9,Pearl,Jett,FUT Esports,247088,137371
+0,Bind,Raze,Evil Geniuses,247088,137372
+1,Bind,Chamber,Evil Geniuses,247088,137372
+2,Bind,Viper,Evil Geniuses,247088,137372
+3,Bind,Brimstone,Evil Geniuses,247088,137372
+4,Bind,Skye,Evil Geniuses,247088,137372
+5,Bind,Viper,FUT Esports,247088,137372
+6,Bind,Raze,FUT Esports,247088,137372
+7,Bind,Kayo,FUT Esports,247088,137372
+8,Bind,Fade,FUT Esports,247088,137372
+9,Bind,Brimstone,FUT Esports,247088,137372
+0,Split,Astra,Paper Rex,247075,137350
+1,Split,Skye,Paper Rex,247075,137350
+2,Split,Jett,Paper Rex,247075,137350
+3,Split,Raze,Paper Rex,247075,137350
+4,Split,Viper,Paper Rex,247075,137350
+5,Split,Raze,KRÜ Esports,247075,137350
+6,Split,Chamber,KRÜ Esports,247075,137350
+7,Split,Astra,KRÜ Esports,247075,137350
+8,Split,Skye,KRÜ Esports,247075,137350
+9,Split,Viper,KRÜ Esports,247075,137350
+0,Pearl,Astra,Paper Rex,247075,137351
+1,Pearl,Skye,Paper Rex,247075,137351
+2,Pearl,Phoenix,Paper Rex,247075,137351
+3,Pearl,Jett,Paper Rex,247075,137351
+4,Pearl,Killjoy,Paper Rex,247075,137351
+5,Pearl,Jett,KRÜ Esports,247075,137351
+6,Pearl,Viper,KRÜ Esports,247075,137351
+7,Pearl,Killjoy,KRÜ Esports,247075,137351
+8,Pearl,Harbor,KRÜ Esports,247075,137351
+9,Pearl,Skye,KRÜ Esports,247075,137351
+0,Split,Skye,EDward Gaming,247076,137353
+1,Split,Raze,EDward Gaming,247076,137353
+2,Split,Viper,EDward Gaming,247076,137353
+3,Split,Astra,EDward Gaming,247076,137353
+4,Split,Jett,EDward Gaming,247076,137353
+5,Split,Raze,Giants Gaming,247076,137353
+6,Split,Breach,Giants Gaming,247076,137353
+7,Split,Omen,Giants Gaming,247076,137353
+8,Split,Cypher,Giants Gaming,247076,137353
+9,Split,Skye,Giants Gaming,247076,137353
+0,Bind,Skye,EDward Gaming,247076,137354
+1,Bind,Chamber,EDward Gaming,247076,137354
+2,Bind,Brimstone,EDward Gaming,247076,137354
+3,Bind,Viper,EDward Gaming,247076,137354
+4,Bind,Raze,EDward Gaming,247076,137354
+5,Bind,Raze,Giants Gaming,247076,137354
+6,Bind,Skye,Giants Gaming,247076,137354
+7,Bind,Cypher,Giants Gaming,247076,137354
+8,Bind,Viper,Giants Gaming,247076,137354
+9,Bind,Brimstone,Giants Gaming,247076,137354
+0,Ascent,Sova,EDward Gaming,247076,137355
+1,Ascent,Killjoy,EDward Gaming,247076,137355
+2,Ascent,Jett,EDward Gaming,247076,137355
+3,Ascent,Omen,EDward Gaming,247076,137355
+4,Ascent,Kayo,EDward Gaming,247076,137355
+5,Ascent,Kayo,Giants Gaming,247076,137355
+6,Ascent,Sova,Giants Gaming,247076,137355
+7,Ascent,Jett,Giants Gaming,247076,137355
+8,Ascent,Killjoy,Giants Gaming,247076,137355
+9,Ascent,Omen,Giants Gaming,247076,137355
+0,Haven,Astra,FNATIC,247095,137386
+1,Haven,Breach,FNATIC,247095,137386
+2,Haven,Jett,FNATIC,247095,137386
+3,Haven,Killjoy,FNATIC,247095,137386
+4,Haven,Sova,FNATIC,247095,137386
+5,Haven,Killjoy,Bilibili Gaming,247095,137386
+6,Haven,Jett,Bilibili Gaming,247095,137386
+7,Haven,Sova,Bilibili Gaming,247095,137386
+8,Haven,Breach,Bilibili Gaming,247095,137386
+9,Haven,Omen,Bilibili Gaming,247095,137386
+0,Lotus,Viper,FNATIC,247095,137387
+1,Lotus,Raze,FNATIC,247095,137387
+2,Lotus,Fade,FNATIC,247095,137387
+3,Lotus,Killjoy,FNATIC,247095,137387
+4,Lotus,Astra,FNATIC,247095,137387
+5,Lotus,Viper,Bilibili Gaming,247095,137387
+6,Lotus,Killjoy,Bilibili Gaming,247095,137387
+7,Lotus,Raze,Bilibili Gaming,247095,137387
+8,Lotus,Fade,Bilibili Gaming,247095,137387
+9,Lotus,Omen,Bilibili Gaming,247095,137387
+0,Haven,Jett,Team Liquid,247103,137404
+1,Haven,Killjoy,Team Liquid,247103,137404
+2,Haven,Skye,Team Liquid,247103,137404
+3,Haven,Omen,Team Liquid,247103,137404
+4,Haven,Breach,Team Liquid,247103,137404
+5,Haven,Killjoy,LOUD,247103,137404
+6,Haven,Harbor,LOUD,247103,137404
+7,Haven,Skye,LOUD,247103,137404
+8,Haven,Jett,LOUD,247103,137404
+9,Haven,Viper,LOUD,247103,137404
+0,Split,Raze,Team Liquid,247103,137405
+1,Split,Astra,Team Liquid,247103,137405
+2,Split,Skye,Team Liquid,247103,137405
+3,Split,Jett,Team Liquid,247103,137405
+4,Split,Viper,Team Liquid,247103,137405
+5,Split,Astra,LOUD,247103,137405
+6,Split,Skye,LOUD,247103,137405
+7,Split,Breach,LOUD,247103,137405
+8,Split,Killjoy,LOUD,247103,137405
+9,Split,Raze,LOUD,247103,137405
+0,Lotus,Raze,FunPlus Phoenix,247089,137374
+1,Lotus,Gekko,FunPlus Phoenix,247089,137374
+2,Lotus,Harbor,FunPlus Phoenix,247089,137374
+3,Lotus,Killjoy,FunPlus Phoenix,247089,137374
+4,Lotus,Viper,FunPlus Phoenix,247089,137374
+5,Lotus,Viper,T1,247089,137374
+6,Lotus,Raze,T1,247089,137374
+7,Lotus,Killjoy,T1,247089,137374
+8,Lotus,Omen,T1,247089,137374
+9,Lotus,Fade,T1,247089,137374
+0,Bind,Skye,FunPlus Phoenix,247089,137375
+1,Bind,Viper,FunPlus Phoenix,247089,137375
+2,Bind,Raze,FunPlus Phoenix,247089,137375
+3,Bind,Jett,FunPlus Phoenix,247089,137375
+4,Bind,Harbor,FunPlus Phoenix,247089,137375
+5,Bind,Jett,T1,247089,137375
+6,Bind,Viper,T1,247089,137375
+7,Bind,Harbor,T1,247089,137375
+8,Bind,Skye,T1,247089,137375
+9,Bind,Gekko,T1,247089,137375
+0,Fracture,Brimstone,Paper Rex,247077,137356
+1,Fracture,Skye,Paper Rex,247077,137356
+2,Fracture,Breach,Paper Rex,247077,137356
+3,Fracture,Raze,Paper Rex,247077,137356
+4,Fracture,Killjoy,Paper Rex,247077,137356
+5,Fracture,Jett,EDward Gaming,247077,137356
+6,Fracture,Killjoy,EDward Gaming,247077,137356
+7,Fracture,Brimstone,EDward Gaming,247077,137356
+8,Fracture,Breach,EDward Gaming,247077,137356
+9,Fracture,Skye,EDward Gaming,247077,137356
+0,Pearl,Skye,Paper Rex,247077,137357
+1,Pearl,Killjoy,Paper Rex,247077,137357
+2,Pearl,Phoenix,Paper Rex,247077,137357
+3,Pearl,Astra,Paper Rex,247077,137357
+4,Pearl,Jett,Paper Rex,247077,137357
+5,Pearl,Killjoy,EDward Gaming,247077,137357
+6,Pearl,Jett,EDward Gaming,247077,137357
+7,Pearl,Viper,EDward Gaming,247077,137357
+8,Pearl,Omen,EDward Gaming,247077,137357
+9,Pearl,Fade,EDward Gaming,247077,137357
+0,Lotus,Killjoy,KRÜ Esports,247078,137359
+1,Lotus,Raze,KRÜ Esports,247078,137359
+2,Lotus,Viper,KRÜ Esports,247078,137359
+3,Lotus,Omen,KRÜ Esports,247078,137359
+4,Lotus,Skye,KRÜ Esports,247078,137359
+5,Lotus,Killjoy,Giants Gaming,247078,137359
+6,Lotus,Omen,Giants Gaming,247078,137359
+7,Lotus,Viper,Giants Gaming,247078,137359
+8,Lotus,Raze,Giants Gaming,247078,137359
+9,Lotus,Skye,Giants Gaming,247078,137359
+0,Pearl,Jett,KRÜ Esports,247078,137360
+1,Pearl,Killjoy,KRÜ Esports,247078,137360
+2,Pearl,Viper,KRÜ Esports,247078,137360
+3,Pearl,Skye,KRÜ Esports,247078,137360
+4,Pearl,Harbor,KRÜ Esports,247078,137360
+5,Pearl,Skye,Giants Gaming,247078,137360
+6,Pearl,Jett,Giants Gaming,247078,137360
+7,Pearl,Sova,Giants Gaming,247078,137360
+8,Pearl,Astra,Giants Gaming,247078,137360
+9,Pearl,Cypher,Giants Gaming,247078,137360
+0,Bind,Neon,ZETA DIVISION,247096,137389
+1,Bind,Viper,ZETA DIVISION,247096,137389
+2,Bind,Skye,ZETA DIVISION,247096,137389
+3,Bind,Raze,ZETA DIVISION,247096,137389
+4,Bind,Brimstone,ZETA DIVISION,247096,137389
+5,Bind,Skye,NRG Esports,247096,137389
+6,Bind,Chamber,NRG Esports,247096,137389
+7,Bind,Raze,NRG Esports,247096,137389
+8,Bind,Viper,NRG Esports,247096,137389
+9,Bind,Brimstone,NRG Esports,247096,137389
+0,Haven,Killjoy,ZETA DIVISION,247096,137390
+1,Haven,Chamber,ZETA DIVISION,247096,137390
+2,Haven,Skye,ZETA DIVISION,247096,137390
+3,Haven,Raze,ZETA DIVISION,247096,137390
+4,Haven,Astra,ZETA DIVISION,247096,137390
+5,Haven,Jett,NRG Esports,247096,137390
+6,Haven,Harbor,NRG Esports,247096,137390
+7,Haven,Viper,NRG Esports,247096,137390
+8,Haven,Killjoy,NRG Esports,247096,137390
+9,Haven,Skye,NRG Esports,247096,137390
+0,Pearl,Jett,Natus Vincere,247104,137407
+1,Pearl,Sova,Natus Vincere,247104,137407
+2,Pearl,Killjoy,Natus Vincere,247104,137407
+3,Pearl,Kayo,Natus Vincere,247104,137407
+4,Pearl,Astra,Natus Vincere,247104,137407
+5,Pearl,Fade,LOUD,247104,137407
+6,Pearl,Killjoy,LOUD,247104,137407
+7,Pearl,Breach,LOUD,247104,137407
+8,Pearl,Astra,LOUD,247104,137407
+9,Pearl,Jett,LOUD,247104,137407
+0,Ascent,Fade,Natus Vincere,247104,137408
+1,Ascent,Jett,Natus Vincere,247104,137408
+2,Ascent,Killjoy,Natus Vincere,247104,137408
+3,Ascent,Kayo,Natus Vincere,247104,137408
+4,Ascent,Omen,Natus Vincere,247104,137408
+5,Ascent,Sova,LOUD,247104,137408
+6,Ascent,Kayo,LOUD,247104,137408
+7,Ascent,Omen,LOUD,247104,137408
+8,Ascent,Jett,LOUD,247104,137408
+9,Ascent,Killjoy,LOUD,247104,137408
+0,Bind,Neon,Natus Vincere,247104,137409
+1,Bind,Viper,Natus Vincere,247104,137409
+2,Bind,Brimstone,Natus Vincere,247104,137409
+3,Bind,Raze,Natus Vincere,247104,137409
+4,Bind,Skye,Natus Vincere,247104,137409
+5,Bind,Viper,LOUD,247104,137409
+6,Bind,Raze,LOUD,247104,137409
+7,Bind,Brimstone,LOUD,247104,137409
+8,Bind,Omen,LOUD,247104,137409
+9,Bind,Skye,LOUD,247104,137409
+0,Bind,Fade,FUT Esports,247090,137377
+1,Bind,Kayo,FUT Esports,247090,137377
+2,Bind,Brimstone,FUT Esports,247090,137377
+3,Bind,Viper,FUT Esports,247090,137377
+4,Bind,Raze,FUT Esports,247090,137377
+5,Bind,Skye,T1,247090,137377
+6,Bind,Jett,T1,247090,137377
+7,Bind,Harbor,T1,247090,137377
+8,Bind,Gekko,T1,247090,137377
+9,Bind,Viper,T1,247090,137377
+0,Pearl,Killjoy,FUT Esports,247090,137378
+1,Pearl,Kayo,FUT Esports,247090,137378
+2,Pearl,Viper,FUT Esports,247090,137378
+3,Pearl,Jett,FUT Esports,247090,137378
+4,Pearl,Brimstone,FUT Esports,247090,137378
+5,Pearl,Jett,T1,247090,137378
+6,Pearl,Skye,T1,247090,137378
+7,Pearl,Viper,T1,247090,137378
+8,Pearl,Killjoy,T1,247090,137378
+9,Pearl,Harbor,T1,247090,137378
+0,Split,Raze,EDward Gaming,247079,137362
+1,Split,Viper,EDward Gaming,247079,137362
+2,Split,Skye,EDward Gaming,247079,137362
+3,Split,Jett,EDward Gaming,247079,137362
+4,Split,Astra,EDward Gaming,247079,137362
+5,Split,Skye,Giants Gaming,247079,137362
+6,Split,Breach,Giants Gaming,247079,137362
+7,Split,Raze,Giants Gaming,247079,137362
+8,Split,Omen,Giants Gaming,247079,137362
+9,Split,Cypher,Giants Gaming,247079,137362
+0,Fracture,Killjoy,EDward Gaming,247079,137363
+1,Fracture,Brimstone,EDward Gaming,247079,137363
+2,Fracture,Breach,EDward Gaming,247079,137363
+3,Fracture,Skye,EDward Gaming,247079,137363
+4,Fracture,Jett,EDward Gaming,247079,137363
+5,Fracture,Sova,Giants Gaming,247079,137363
+6,Fracture,Brimstone,Giants Gaming,247079,137363
+7,Fracture,Breach,Giants Gaming,247079,137363
+8,Fracture,Killjoy,Giants Gaming,247079,137363
+9,Fracture,Raze,Giants Gaming,247079,137363
+0,Bind,Viper,Bilibili Gaming,247098,137392
+1,Bind,Raze,Bilibili Gaming,247098,137392
+2,Bind,Cypher,Bilibili Gaming,247098,137392
+3,Bind,Skye,Bilibili Gaming,247098,137392
+4,Bind,Brimstone,Bilibili Gaming,247098,137392
+5,Bind,Raze,NRG Esports,247098,137392
+6,Bind,Viper,NRG Esports,247098,137392
+7,Bind,Brimstone,NRG Esports,247098,137392
+8,Bind,Skye,NRG Esports,247098,137392
+9,Bind,Chamber,NRG Esports,247098,137392
+0,Ascent,Omen,Bilibili Gaming,247098,137393
+1,Ascent,Jett,Bilibili Gaming,247098,137393
+2,Ascent,Kayo,Bilibili Gaming,247098,137393
+3,Ascent,Killjoy,Bilibili Gaming,247098,137393
+4,Ascent,Sova,Bilibili Gaming,247098,137393
+5,Ascent,Kayo,NRG Esports,247098,137393
+6,Ascent,Jett,NRG Esports,247098,137393
+7,Ascent,Sova,NRG Esports,247098,137393
+8,Ascent,Killjoy,NRG Esports,247098,137393
+9,Ascent,Omen,NRG Esports,247098,137393
+0,Ascent,Killjoy,FNATIC,248270,137618
+1,Ascent,Sova,FNATIC,248270,137618
+2,Ascent,Jett,FNATIC,248270,137618
+3,Ascent,Kayo,FNATIC,248270,137618
+4,Ascent,Omen,FNATIC,248270,137618
+5,Ascent,Sova,LOUD,248270,137618
+6,Ascent,Jett,LOUD,248270,137618
+7,Ascent,Killjoy,LOUD,248270,137618
+8,Ascent,Omen,LOUD,248270,137618
+9,Ascent,Kayo,LOUD,248270,137618
+0,Lotus,Raze,FNATIC,248270,137619
+1,Lotus,Astra,FNATIC,248270,137619
+2,Lotus,Fade,FNATIC,248270,137619
+3,Lotus,Killjoy,FNATIC,248270,137619
+4,Lotus,Viper,FNATIC,248270,137619
+5,Lotus,Raze,LOUD,248270,137619
+6,Lotus,Killjoy,LOUD,248270,137619
+7,Lotus,Omen,LOUD,248270,137619
+8,Lotus,Fade,LOUD,248270,137619
+9,Lotus,Viper,LOUD,248270,137619
+0,Ascent,Reyna,Paper Rex,248271,137621
+1,Ascent,Skye,Paper Rex,248271,137621
+2,Ascent,Harbor,Paper Rex,248271,137621
+3,Ascent,Raze,Paper Rex,248271,137621
+4,Ascent,Viper,Paper Rex,248271,137621
+5,Ascent,Sova,FUT Esports,248271,137621
+6,Ascent,Kayo,FUT Esports,248271,137621
+7,Ascent,Jett,FUT Esports,248271,137621
+8,Ascent,Killjoy,FUT Esports,248271,137621
+9,Ascent,Omen,FUT Esports,248271,137621
+0,Pearl,Skye,Paper Rex,248271,137622
+1,Pearl,Killjoy,Paper Rex,248271,137622
+2,Pearl,Jett,Paper Rex,248271,137622
+3,Pearl,Phoenix,Paper Rex,248271,137622
+4,Pearl,Astra,Paper Rex,248271,137622
+5,Pearl,Brimstone,FUT Esports,248271,137622
+6,Pearl,Jett,FUT Esports,248271,137622
+7,Pearl,Killjoy,FUT Esports,248271,137622
+8,Pearl,Viper,FUT Esports,248271,137622
+9,Pearl,Kayo,FUT Esports,248271,137622
+0,Lotus,Raze,DRX,248272,137624
+1,Lotus,Omen,DRX,248272,137624
+2,Lotus,Killjoy,DRX,248272,137624
+3,Lotus,Viper,DRX,248272,137624
+4,Lotus,Fade,DRX,248272,137624
+5,Lotus,Raze,Bilibili Gaming,248272,137624
+6,Lotus,Viper,Bilibili Gaming,248272,137624
+7,Lotus,Omen,Bilibili Gaming,248272,137624
+8,Lotus,Fade,Bilibili Gaming,248272,137624
+9,Lotus,Killjoy,Bilibili Gaming,248272,137624
+0,Haven,Viper,DRX,248272,137625
+1,Haven,Jett,DRX,248272,137625
+2,Haven,Omen,DRX,248272,137625
+3,Haven,Skye,DRX,248272,137625
+4,Haven,Killjoy,DRX,248272,137625
+5,Haven,Sova,Bilibili Gaming,248272,137625
+6,Haven,Omen,Bilibili Gaming,248272,137625
+7,Haven,Breach,Bilibili Gaming,248272,137625
+8,Haven,Jett,Bilibili Gaming,248272,137625
+9,Haven,Killjoy,Bilibili Gaming,248272,137625
+0,Split,Skye,Evil Geniuses,248273,137627
+1,Split,Astra,Evil Geniuses,248273,137627
+2,Split,Viper,Evil Geniuses,248273,137627
+3,Split,Raze,Evil Geniuses,248273,137627
+4,Split,Chamber,Evil Geniuses,248273,137627
+5,Split,Viper,EDward Gaming,248273,137627
+6,Split,Astra,EDward Gaming,248273,137627
+7,Split,Jett,EDward Gaming,248273,137627
+8,Split,Skye,EDward Gaming,248273,137627
+9,Split,Raze,EDward Gaming,248273,137627
+0,Ascent,Jett,Evil Geniuses,248273,137628
+1,Ascent,Kayo,Evil Geniuses,248273,137628
+2,Ascent,Omen,Evil Geniuses,248273,137628
+3,Ascent,Killjoy,Evil Geniuses,248273,137628
+4,Ascent,Sova,Evil Geniuses,248273,137628
+5,Ascent,Sova,EDward Gaming,248273,137628
+6,Ascent,Killjoy,EDward Gaming,248273,137628
+7,Ascent,Jett,EDward Gaming,248273,137628
+8,Ascent,Kayo,EDward Gaming,248273,137628
+9,Ascent,Omen,EDward Gaming,248273,137628
+0,Pearl,Jett,Evil Geniuses,248273,137629
+1,Pearl,Yoru,Evil Geniuses,248273,137629
+2,Pearl,Sova,Evil Geniuses,248273,137629
+3,Pearl,Killjoy,Evil Geniuses,248273,137629
+4,Pearl,Astra,Evil Geniuses,248273,137629
+5,Pearl,Killjoy,EDward Gaming,248273,137629
+6,Pearl,Viper,EDward Gaming,248273,137629
+7,Pearl,Skye,EDward Gaming,248273,137629
+8,Pearl,Omen,EDward Gaming,248273,137629
+9,Pearl,Jett,EDward Gaming,248273,137629
+0,Split,Cypher,FNATIC,248278,137644
+1,Split,Raze,FNATIC,248278,137644
+2,Split,Breach,FNATIC,248278,137644
+3,Split,Skye,FNATIC,248278,137644
+4,Split,Omen,FNATIC,248278,137644
+5,Split,Omen,FUT Esports,248278,137644
+6,Split,Skye,FUT Esports,248278,137644
+7,Split,Kayo,FUT Esports,248278,137644
+8,Split,Viper,FUT Esports,248278,137644
+9,Split,Jett,FUT Esports,248278,137644
+0,Haven,Killjoy,FNATIC,248278,137645
+1,Haven,Breach,FNATIC,248278,137645
+2,Haven,Sova,FNATIC,248278,137645
+3,Haven,Jett,FNATIC,248278,137645
+4,Haven,Astra,FNATIC,248278,137645
+5,Haven,Omen,FUT Esports,248278,137645
+6,Haven,Gekko,FUT Esports,248278,137645
+7,Haven,Breach,FUT Esports,248278,137645
+8,Haven,Killjoy,FUT Esports,248278,137645
+9,Haven,Jett,FUT Esports,248278,137645
+0,Bind,Cypher,Bilibili Gaming,248279,137647
+1,Bind,Raze,Bilibili Gaming,248279,137647
+2,Bind,Viper,Bilibili Gaming,248279,137647
+3,Bind,Brimstone,Bilibili Gaming,248279,137647
+4,Bind,Skye,Bilibili Gaming,248279,137647
+5,Bind,Viper,EDward Gaming,248279,137647
+6,Bind,Chamber,EDward Gaming,248279,137647
+7,Bind,Raze,EDward Gaming,248279,137647
+8,Bind,Brimstone,EDward Gaming,248279,137647
+9,Bind,Skye,EDward Gaming,248279,137647
+0,Split,Raze,Bilibili Gaming,248279,137648
+1,Split,Skye,Bilibili Gaming,248279,137648
+2,Split,Cypher,Bilibili Gaming,248279,137648
+3,Split,Viper,Bilibili Gaming,248279,137648
+4,Split,Omen,Bilibili Gaming,248279,137648
+5,Split,Jett,EDward Gaming,248279,137648
+6,Split,Skye,EDward Gaming,248279,137648
+7,Split,Astra,EDward Gaming,248279,137648
+8,Split,Viper,EDward Gaming,248279,137648
+9,Split,Raze,EDward Gaming,248279,137648
+0,Haven,Killjoy,Bilibili Gaming,248279,137649
+1,Haven,Breach,Bilibili Gaming,248279,137649
+2,Haven,Sova,Bilibili Gaming,248279,137649
+3,Haven,Jett,Bilibili Gaming,248279,137649
+4,Haven,Omen,Bilibili Gaming,248279,137649
+5,Haven,Sova,EDward Gaming,248279,137649
+6,Haven,Omen,EDward Gaming,248279,137649
+7,Haven,Jett,EDward Gaming,248279,137649
+8,Haven,Cypher,EDward Gaming,248279,137649
+9,Haven,Breach,EDward Gaming,248279,137649
+0,Lotus,Omen,LOUD,248274,137630
+1,Lotus,Fade,LOUD,248274,137630
+2,Lotus,Raze,LOUD,248274,137630
+3,Lotus,Killjoy,LOUD,248274,137630
+4,Lotus,Viper,LOUD,248274,137630
+5,Lotus,Jett,Paper Rex,248274,137630
+6,Lotus,Skye,Paper Rex,248274,137630
+7,Lotus,Raze,Paper Rex,248274,137630
+8,Lotus,Astra,Paper Rex,248274,137630
+9,Lotus,Omen,Paper Rex,248274,137630
+0,Split,Killjoy,LOUD,248274,137631
+1,Split,Breach,LOUD,248274,137631
+2,Split,Skye,LOUD,248274,137631
+3,Split,Astra,LOUD,248274,137631
+4,Split,Raze,LOUD,248274,137631
+5,Split,Viper,Paper Rex,248274,137631
+6,Split,Jett,Paper Rex,248274,137631
+7,Split,Astra,Paper Rex,248274,137631
+8,Split,Skye,Paper Rex,248274,137631
+9,Split,Raze,Paper Rex,248274,137631
+0,Pearl,Jett,LOUD,248274,137632
+1,Pearl,Fade,LOUD,248274,137632
+2,Pearl,Astra,LOUD,248274,137632
+3,Pearl,Breach,LOUD,248274,137632
+4,Pearl,Killjoy,LOUD,248274,137632
+5,Pearl,Jett,Paper Rex,248274,137632
+6,Pearl,Phoenix,Paper Rex,248274,137632
+7,Pearl,Killjoy,Paper Rex,248274,137632
+8,Pearl,Skye,Paper Rex,248274,137632
+9,Pearl,Astra,Paper Rex,248274,137632
+0,Fracture,Raze,DRX,248275,137633
+1,Fracture,Viper,DRX,248275,137633
+2,Fracture,Brimstone,DRX,248275,137633
+3,Fracture,Breach,DRX,248275,137633
+4,Fracture,Killjoy,DRX,248275,137633
+5,Fracture,Brimstone,Evil Geniuses,248275,137633
+6,Fracture,Sova,Evil Geniuses,248275,137633
+7,Fracture,Breach,Evil Geniuses,248275,137633
+8,Fracture,Killjoy,Evil Geniuses,248275,137633
+9,Fracture,Raze,Evil Geniuses,248275,137633
+0,Lotus,Viper,DRX,248275,137634
+1,Lotus,Fade,DRX,248275,137634
+2,Lotus,Killjoy,DRX,248275,137634
+3,Lotus,Raze,DRX,248275,137634
+4,Lotus,Omen,DRX,248275,137634
+5,Lotus,Astra,Evil Geniuses,248275,137634
+6,Lotus,Viper,Evil Geniuses,248275,137634
+7,Lotus,Killjoy,Evil Geniuses,248275,137634
+8,Lotus,Raze,Evil Geniuses,248275,137634
+9,Lotus,Skye,Evil Geniuses,248275,137634
+0,Bind,Brimstone,LOUD,248281,137653
+1,Bind,Raze,LOUD,248281,137653
+2,Bind,Skye,LOUD,248281,137653
+3,Bind,Viper,LOUD,248281,137653
+4,Bind,Omen,LOUD,248281,137653
+5,Bind,Reyna,EDward Gaming,248281,137653
+6,Bind,Skye,EDward Gaming,248281,137653
+7,Bind,Viper,EDward Gaming,248281,137653
+8,Bind,Raze,EDward Gaming,248281,137653
+9,Bind,Brimstone,EDward Gaming,248281,137653
+0,Ascent,Omen,LOUD,248281,137654
+1,Ascent,Sova,LOUD,248281,137654
+2,Ascent,Kayo,LOUD,248281,137654
+3,Ascent,Killjoy,LOUD,248281,137654
+4,Ascent,Jett,LOUD,248281,137654
+5,Ascent,Kayo,EDward Gaming,248281,137654
+6,Ascent,Killjoy,EDward Gaming,248281,137654
+7,Ascent,Sova,EDward Gaming,248281,137654
+8,Ascent,Jett,EDward Gaming,248281,137654
+9,Ascent,Omen,EDward Gaming,248281,137654
+0,Haven,Skye,LOUD,248281,137655
+1,Haven,Killjoy,LOUD,248281,137655
+2,Haven,Jett,LOUD,248281,137655
+3,Haven,Viper,LOUD,248281,137655
+4,Haven,Harbor,LOUD,248281,137655
+5,Haven,Breach,EDward Gaming,248281,137655
+6,Haven,Cypher,EDward Gaming,248281,137655
+7,Haven,Omen,EDward Gaming,248281,137655
+8,Haven,Jett,EDward Gaming,248281,137655
+9,Haven,Sova,EDward Gaming,248281,137655
+0,Bind,Skye,DRX,248280,137650
+1,Bind,Brimstone,DRX,248280,137650
+2,Bind,Viper,DRX,248280,137650
+3,Bind,Yoru,DRX,248280,137650
+4,Bind,Raze,DRX,248280,137650
+5,Bind,Viper,FNATIC,248280,137650
+6,Bind,Raze,FNATIC,248280,137650
+7,Bind,Chamber,FNATIC,248280,137650
+8,Bind,Brimstone,FNATIC,248280,137650
+9,Bind,Skye,FNATIC,248280,137650
+0,Haven,Jett,DRX,248280,137651
+1,Haven,Omen,DRX,248280,137651
+2,Haven,Killjoy,DRX,248280,137651
+3,Haven,Viper,DRX,248280,137651
+4,Haven,Skye,DRX,248280,137651
+5,Haven,Killjoy,FNATIC,248280,137651
+6,Haven,Sova,FNATIC,248280,137651
+7,Haven,Jett,FNATIC,248280,137651
+8,Haven,Astra,FNATIC,248280,137651
+9,Haven,Breach,FNATIC,248280,137651
+0,Split,Omen,DRX,248280,137652
+1,Split,Skye,DRX,248280,137652
+2,Split,Raze,DRX,248280,137652
+3,Split,Killjoy,DRX,248280,137652
+4,Split,Viper,DRX,248280,137652
+5,Split,Skye,FNATIC,248280,137652
+6,Split,Breach,FNATIC,248280,137652
+7,Split,Omen,FNATIC,248280,137652
+8,Split,Raze,FNATIC,248280,137652
+9,Split,Cypher,FNATIC,248280,137652
+0,Ascent,Viper,Paper Rex,248276,137636
+1,Ascent,Reyna,Paper Rex,248276,137636
+2,Ascent,Raze,Paper Rex,248276,137636
+3,Ascent,Harbor,Paper Rex,248276,137636
+4,Ascent,Skye,Paper Rex,248276,137636
+5,Ascent,Sova,Evil Geniuses,248276,137636
+6,Ascent,Omen,Evil Geniuses,248276,137636
+7,Ascent,Kayo,Evil Geniuses,248276,137636
+8,Ascent,Killjoy,Evil Geniuses,248276,137636
+9,Ascent,Jett,Evil Geniuses,248276,137636
+0,Bind,Raze,Paper Rex,248276,137637
+1,Bind,Brimstone,Paper Rex,248276,137637
+2,Bind,Skye,Paper Rex,248276,137637
+3,Bind,Harbor,Paper Rex,248276,137637
+4,Bind,Reyna,Paper Rex,248276,137637
+5,Bind,Viper,Evil Geniuses,248276,137637
+6,Bind,Chamber,Evil Geniuses,248276,137637
+7,Bind,Skye,Evil Geniuses,248276,137637
+8,Bind,Raze,Evil Geniuses,248276,137637
+9,Bind,Brimstone,Evil Geniuses,248276,137637
+0,Pearl,Astra,Paper Rex,248276,137638
+1,Pearl,Killjoy,Paper Rex,248276,137638
+2,Pearl,Skye,Paper Rex,248276,137638
+3,Pearl,Phoenix,Paper Rex,248276,137638
+4,Pearl,Jett,Paper Rex,248276,137638
+5,Pearl,Jett,Evil Geniuses,248276,137638
+6,Pearl,Astra,Evil Geniuses,248276,137638
+7,Pearl,Yoru,Evil Geniuses,248276,137638
+8,Pearl,Sova,Evil Geniuses,248276,137638
+9,Pearl,Killjoy,Evil Geniuses,248276,137638
+0,Split,Omen,FNATIC,248282,137656
+1,Split,Cypher,FNATIC,248282,137656
+2,Split,Raze,FNATIC,248282,137656
+3,Split,Skye,FNATIC,248282,137656
+4,Split,Breach,FNATIC,248282,137656
+5,Split,Killjoy,LOUD,248282,137656
+6,Split,Breach,LOUD,248282,137656
+7,Split,Skye,LOUD,248282,137656
+8,Split,Astra,LOUD,248282,137656
+9,Split,Raze,LOUD,248282,137656
+0,Ascent,Sova,FNATIC,248282,137657
+1,Ascent,Jett,FNATIC,248282,137657
+2,Ascent,Omen,FNATIC,248282,137657
+3,Ascent,Killjoy,FNATIC,248282,137657
+4,Ascent,Kayo,FNATIC,248282,137657
+5,Ascent,Sova,LOUD,248282,137657
+6,Ascent,Jett,LOUD,248282,137657
+7,Ascent,Kayo,LOUD,248282,137657
+8,Ascent,Omen,LOUD,248282,137657
+9,Ascent,Killjoy,LOUD,248282,137657
+0,Haven,Sova,FNATIC,248282,137658
+1,Haven,Jett,FNATIC,248282,137658
+2,Haven,Astra,FNATIC,248282,137658
+3,Haven,Killjoy,FNATIC,248282,137658
+4,Haven,Breach,FNATIC,248282,137658
+5,Haven,Jett,LOUD,248282,137658
+6,Haven,Skye,LOUD,248282,137658
+7,Haven,Killjoy,LOUD,248282,137658
+8,Haven,Viper,LOUD,248282,137658
+9,Haven,Harbor,LOUD,248282,137658
+0,Ascent,Jett,Evil Geniuses,248283,137659
+1,Ascent,Kayo,Evil Geniuses,248283,137659
+2,Ascent,Sova,Evil Geniuses,248283,137659
+3,Ascent,Omen,Evil Geniuses,248283,137659
+4,Ascent,Killjoy,Evil Geniuses,248283,137659
+5,Ascent,Killjoy,LOUD,248283,137659
+6,Ascent,Jett,LOUD,248283,137659
+7,Ascent,Kayo,LOUD,248283,137659
+8,Ascent,Sova,LOUD,248283,137659
+9,Ascent,Omen,LOUD,248283,137659
+0,Lotus,Raze,Evil Geniuses,248283,137660
+1,Lotus,Astra,Evil Geniuses,248283,137660
+2,Lotus,Skye,Evil Geniuses,248283,137660
+3,Lotus,Killjoy,Evil Geniuses,248283,137660
+4,Lotus,Viper,Evil Geniuses,248283,137660
+5,Lotus,Killjoy,LOUD,248283,137660
+6,Lotus,Viper,LOUD,248283,137660
+7,Lotus,Raze,LOUD,248283,137660
+8,Lotus,Omen,LOUD,248283,137660
+9,Lotus,Fade,LOUD,248283,137660
+0,Pearl,Jett,Evil Geniuses,248283,137661
+1,Pearl,Sova,Evil Geniuses,248283,137661
+2,Pearl,Astra,Evil Geniuses,248283,137661
+3,Pearl,Killjoy,Evil Geniuses,248283,137661
+4,Pearl,Yoru,Evil Geniuses,248283,137661
+5,Pearl,Viper,LOUD,248283,137661
+6,Pearl,Jett,LOUD,248283,137661
+7,Pearl,Killjoy,LOUD,248283,137661
+8,Pearl,Skye,LOUD,248283,137661
+9,Pearl,Harbor,LOUD,248283,137661
+0,Split,Chamber,Evil Geniuses,248283,137662
+1,Split,Skye,Evil Geniuses,248283,137662
+2,Split,Viper,Evil Geniuses,248283,137662
+3,Split,Astra,Evil Geniuses,248283,137662
+4,Split,Raze,Evil Geniuses,248283,137662
+5,Split,Raze,LOUD,248283,137662
+6,Split,Skye,LOUD,248283,137662
+7,Split,Astra,LOUD,248283,137662
+8,Split,Breach,LOUD,248283,137662
+9,Split,Killjoy,LOUD,248283,137662
+0,Bind,Skye,Evil Geniuses,248283,137663
+1,Bind,Chamber,Evil Geniuses,248283,137663
+2,Bind,Brimstone,Evil Geniuses,248283,137663
+3,Bind,Raze,Evil Geniuses,248283,137663
+4,Bind,Viper,Evil Geniuses,248283,137663
+5,Bind,Omen,LOUD,248283,137663
+6,Bind,Viper,LOUD,248283,137663
+7,Bind,Raze,LOUD,248283,137663
+8,Bind,Skye,LOUD,248283,137663
+9,Bind,Brimstone,LOUD,248283,137663
+0,Split,Viper,Paper Rex,248277,137639
+1,Split,Jett,Paper Rex,248277,137639
+2,Split,Skye,Paper Rex,248277,137639
+3,Split,Astra,Paper Rex,248277,137639
+4,Split,Raze,Paper Rex,248277,137639
+5,Split,Jett,Evil Geniuses,248277,137639
+6,Split,Raze,Evil Geniuses,248277,137639
+7,Split,Astra,Evil Geniuses,248277,137639
+8,Split,Skye,Evil Geniuses,248277,137639
+9,Split,Viper,Evil Geniuses,248277,137639
+0,Ascent,Reyna,Paper Rex,248277,137640
+1,Ascent,Kayo,Paper Rex,248277,137640
+2,Ascent,Raze,Paper Rex,248277,137640
+3,Ascent,Harbor,Paper Rex,248277,137640
+4,Ascent,Viper,Paper Rex,248277,137640
+5,Ascent,Kayo,Evil Geniuses,248277,137640
+6,Ascent,Killjoy,Evil Geniuses,248277,137640
+7,Ascent,Sova,Evil Geniuses,248277,137640
+8,Ascent,Jett,Evil Geniuses,248277,137640
+9,Ascent,Omen,Evil Geniuses,248277,137640
+0,Bind,Breach,Paper Rex,248277,137641
+1,Bind,Brimstone,Paper Rex,248277,137641
+2,Bind,Yoru,Paper Rex,248277,137641
+3,Bind,Skye,Paper Rex,248277,137641
+4,Bind,Raze,Paper Rex,248277,137641
+5,Bind,Raze,Evil Geniuses,248277,137641
+6,Bind,Viper,Evil Geniuses,248277,137641
+7,Bind,Chamber,Evil Geniuses,248277,137641
+8,Bind,Skye,Evil Geniuses,248277,137641
+9,Bind,Brimstone,Evil Geniuses,248277,137641
+0,Lotus,Raze,Paper Rex,248277,137642
+1,Lotus,Astra,Paper Rex,248277,137642
+2,Lotus,Skye,Paper Rex,248277,137642
+3,Lotus,Jett,Paper Rex,248277,137642
+4,Lotus,Omen,Paper Rex,248277,137642
+5,Lotus,Astra,Evil Geniuses,248277,137642
+6,Lotus,Raze,Evil Geniuses,248277,137642
+7,Lotus,Killjoy,Evil Geniuses,248277,137642
+8,Lotus,Skye,Evil Geniuses,248277,137642
+9,Lotus,Viper,Evil Geniuses,248277,137642
