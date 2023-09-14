@@ -66,12 +66,17 @@ def scrape_game(soup, game_id):
     map_string = game_soup.find('span', {'style':'position: relative;'}).text
     map_title = re.findall(title_pattern, str(map_string))
     
-    character_spans = game_soup.find_all('span', {'class':'stats-sq mod-agent small'})[:10]
+    #Scrape character
+    character_spans = game_soup.find_all('span', {'class': 'stats-sq mod-agent small'})[:10]
     characters = [img['title'] for span in character_spans for img in span]
+    
+    #Scrape team
+    team_divs = game_soup.find_all('div', {'class': 'team-name'})
+    teams = [div.text.strip() for div in team_divs for i in range(5)]
     
     map_title = map_title * len(characters)
     
-    return map_title, characters
+    return map_title, characters, teams
 
 
 # In[4]:
@@ -183,12 +188,16 @@ def scrape_games_in_tournament():
         match_soup, game_ids = scrape_match(match_url)
         
         for game_id in game_ids:
-            map_title, characters = scrape_game(match_soup, game_id)
+            map_title, characters, teams = scrape_game(match_soup, game_id)
             
             match_list = [match_id] * len(characters)
             game_list = [game_id] * len(characters)
     
-            game_df = pd.DataFrame({'map': map_title, 'agents': characters, 'match_id': match_list, 'game_id': game_list})
+            game_df = pd.DataFrame({'map': map_title, 
+                                    'agents': characters,
+                                    'team' : teams,
+                                    'match_id': match_list, 
+                                    'game_id': game_list})
             df = df.append(game_df)
 
         time.sleep(2)
@@ -309,6 +318,15 @@ PLOT_LAYOUT = go.Layout(title = dict(text = 'Valorant Champions 2023 - Agent Sel
                    font_color = '#FFFFFF',
                    font_family = 'Arial')
 
+EMPTY_LAYOUT = go.Layout(title = dict(text = 'Valorant Champions 2023 - Agent Selection', font = dict(size = 20)),
+                   xaxis = {'visible': False},
+                   yaxis = {'visible': False},
+                   plot_bgcolor = '#0A0E13',
+                   paper_bgcolor = '#0A0E13',
+                   font_color = '#FFFFFF',
+                   font_family = 'Arial',
+                   annotations = [{'text':'No data available.'}])
+
 
 # ## Dashboard Components
 
@@ -333,18 +351,33 @@ map_options.append({'label': 'All Maps', 'value': 'All Maps'})
 # In[18]:
 
 
+team_options = [{'label': team, 'value': team} for team in df['team'].unique()]
+team_options.append({'label': 'All Teams', 'value': 'All Teams'})
+
+
+# In[19]:
+
+
 #Map Select
 dropdown = dcc.Dropdown(id = 'map-picker', options = map_options, value = 'All Maps', style = {'color':'#000000'})
 
 
-# In[19]:
+# In[20]:
+
+
+#Team Select
+dropdown2 = dcc.Dropdown(id = 'team-picker', options = team_options, value = 'All Teams', style = {'color':'#000000',
+                                                                                                   'margin-top': '10px'})
+
+
+# In[21]:
 
 
 #Image 
 img = '/assets/valorant-logo_resized.png'
 
 
-# In[20]:
+# In[22]:
 
 
 #Sidebar
@@ -352,9 +385,9 @@ sidebar = html.Div([
     html.Img(src=img),
     html.H2('Filters'),
     html.Hr(),
-    html.P('Select A Map:'),
+    html.P('Select A Map and Team:'),
     dbc.Nav(
-        [dropdown],
+        [dropdown, dropdown2],
         vertical = True,
         pills = True)
     ],
@@ -364,14 +397,14 @@ sidebar = html.Div([
 
 # ## Run Dashboard
 
-# In[21]:
+# In[23]:
 
 
 app = dash.Dash()
 server = app.server
 
 
-# In[22]:
+# In[24]:
 
 
 app.layout = html.Div(children = [
@@ -386,24 +419,33 @@ if __name__ == '__main__':
     app.run_server(jupyter_mode = 'external', debug = 'True')
 
 
-# In[23]:
+# In[25]:
 
 
-@app.callback(Output('bar','figure'), [Input('map-picker','value')])
-def update_map(selected_map):
-    if selected_map == 'All Maps' or selected_map == None:
-        data = [go.Histogram(x = df['agents'],
-                            y = df['game_id'],
-                            marker = {'color':'#FF4655'})]
-                        
+@app.callback(Output('bar','figure'), [Input('map-picker','value'),
+                                       Input('team-picker','value')])
+def update_graph(selected_map, selected_team):
+    if selected_map in [None, 'All Maps'] and selected_team in [None, 'All Teams']:
+        filtered_df = df
+    elif selected_map in [None, 'All Maps']:
+        filtered_df = df[df['team'] == selected_team]
+    elif selected_team in [None, 'All Teams']:
+        filtered_df = df[df['map'] == selected_map]
     else:
-        filtered_df = df.loc[df['map'] == selected_map]
-        data = [go.Histogram(x = filtered_df['agents'],
-                        y = filtered_df['game_id'],
-                            marker = {'color':'#FF4655'})]
-        
-    fig = {'data': data,
-           'layout': PLOT_LAYOUT}
+        filtered_df = df[(df['map'] == selected_map) & (df['team'] == selected_team)]
     
+    data = [go.Histogram(
+        x=filtered_df['agents'],
+        y=filtered_df['game_id'],
+        marker={'color': '#FF4655'}
+    )]
+
+    fig = {'data': data, 'layout': PLOT_LAYOUT}
     return fig
+
+
+# In[ ]:
+
+
+
 
